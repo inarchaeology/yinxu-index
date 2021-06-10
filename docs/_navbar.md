@@ -1,1 +1,1 @@
-* [文檔](https://inarchaeology.github.io/hknews-archaeology)
+* [考古不語](https://inarchaeology.github.io/)
